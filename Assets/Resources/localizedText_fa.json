@@ -1,0 +1,90 @@
+{
+    "items":
+    [
+        {
+            "key":"howToPlay",
+            "value":"ﯼﺯﺎﺑ ﺵﺯﻮﻣﺁ"
+        },
+        {
+            "key":"multiPlayer",
+            "value":"ﻩﺮﻔﻧ ﺪﻨﭼ ﯼﺯﺎﺑ"
+        },
+        {
+            "key":"singlePlayer",
+            "value":"ﻩﺮﻔﻧ 1 ﯼﺯﺎﺑ"
+        },
+        {
+            "key":"aboutUs",
+            "value":"ﺎﻣ ﯼ ﻩﺭﺎﺑﺭﺩ"
+        },
+        {
+            "key":"resume",
+            "value":"ﯼﺯﺎﺑ ﯼ ﻪﻣﺍﺩﺍ"
+        },
+        {
+            "key":"reStart",
+            "value":"ﺩﺪﺠﻣ ﻉﻭﺮﺷ"
+        },
+        {
+            "key":"mainMenu",
+            "value":"ﯽﻠﺻﺍ ﯼﻮﻨﻣ"
+        },
+        {
+            "key":"player1",
+            "value":"ﻝﻭﺍ ﻦﮑﯾﺯﺎﺑ"
+        },
+        {
+            "key":"player2",
+            "value":"ﻡﻭﺩ ﻦﮑﯾﺯﺎﺑ"
+        },
+        {
+            "key":"inputNameTitle",
+            "value":"ﺪﯿﻨﮐ ﺩﺭﺍﻭ ﺍﺭ ﺩﻮﺧ ﻡﺎﻧ"
+        },
+        {
+            "key":"submit",
+            "value":"ﺪﯿﯾﺎﺗ"
+        },
+        {
+            "key":"goToSite",
+            "value":"ﺖﯾﺎﺳ ﻪﺑ ﻭﺮﺑ"
+        },
+        {
+            "key":"setting",
+            "value":"ﺕﺎﻤﯿﻈﻨﺗ"
+        }
+        ,
+        {
+            "key":"exit",
+            "value":"ﺝﻭﺮﺧ"
+        },
+        {
+            "key":"start",
+            "value":"ﯼﺯﺎﺑ ﻉﻭﺮﺷ"
+        },
+        {
+            "key":"pause",
+            "value":"ﻒﻗﻮﺗ"
+        },
+        {
+            "key":"resetText",
+            "value":"ﺪﯿﻨﮐ ﺲﻤﻟ ﺩﺪﺠﻣ ﻉﻭﺮﺷ ﯼﺍﺮﺑ"
+        },
+        {
+            "key":"graphicall",
+            "value":"ﯽﮑﯿﻓﺍﺮﮔ"
+        },
+        {
+            "key":"classic",
+            "value":"ﮏﯿﺳﻼﮐ"
+        },
+        {
+            "key":"languageLabel",
+            "value":"ﻥﺎﺑﺯ"
+        },
+        {
+            "key":"themeLabel",
+            "value":"ﻪﻨﯿﻣﺯ"
+        }
+    ]
+}

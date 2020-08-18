@@ -1,0 +1,547 @@
+fileFormatVersion: 2
+guid: 1a3db2ea5d3c7c486ae80af72893f742
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 9057123935687522189
+    second: buttonContiner
+  - first:
+      213: 8636877481111216802
+    second: button
+  - first:
+      213: 4786076626359158465
+    second: exitButton
+  - first:
+      213: -8972465827270898934
+    second: arrowButton
+  - first:
+      213: -3802034431556174748
+    second: mainMenuText
+  - first:
+      213: -4971734498214075782
+    second: restartText
+  - first:
+      213: 811228745274816241
+    second: resumeText
+  - first:
+      213: -8025640324364675116
+    second: pauseText
+  - first:
+      213: -3596129070242879088
+    second: aboutUsText
+  - first:
+      213: -7040344700898196085
+    second: exitText
+  - first:
+      213: 7840032887420397194
+    second: startText
+  - first:
+      213: -2914063396696707583
+    second: goToSiteText
+  - first:
+      213: -8637184524246021380
+    second: leaveText
+  - first:
+      213: 7042847911465117151
+    second: singlePlayerText
+  - first:
+      213: 3447130555648517795
+    second: multiPlayerText
+  - first:
+      213: 7042847911465117151
+    second: helpText
+  - first:
+      213: 2357391784381616694
+    second: howToPlay
+  - first:
+      213: 1487049174405415783
+    second: pauseButton
+  - first:
+      213: 7042847911465117151
+    second: scorePanel
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: buttonContiner
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 369
+        width: 2204
+        height: 2097
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2756b1fbcdb96d5f9a1422ad115ba26d
+      internalID: 9057123935687522189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: button
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 10
+        width: 1603
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a6e72bbbf0733fdb532db3b6d83d8b
+      internalID: 8636877481111216802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exitButton
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1993
+        width: 478
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d44eb9fb86cfb2bcb67e681f8812fc3
+      internalID: 4786076626359158465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: arrowButton
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1788
+        width: 417
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62667b43aa79a37e49f8d4e023561423
+      internalID: -8972465827270898934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mainMenuText
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 2239
+        width: 637
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b84dbec4ecfe8aafebace87f6af5d
+      internalID: -3802034431556174748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: restartText
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2138
+        width: 612
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2642dd2ecd016447986007f0e85781f
+      internalID: -4971734498214075782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: resumeText
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 2041
+        width: 574
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c39bde40a8e89204be7a26f98871ad3
+      internalID: 811228745274816241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pauseText
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1989
+        width: 208
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b627261ee058c5dfdbc4c048bef21c15
+      internalID: -8025640324364675116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aboutUsText
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1890
+        width: 683
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ef2c3a11b6faabd91b02c554376c40
+      internalID: -3596129070242879088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: exitText
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1786
+        width: 298
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12b2440bbd9227171b4d1882ff6daef1
+      internalID: -7040344700898196085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: startText
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1680
+        width: 425
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00be66e86e73abe6c904ab84a5a3ea10
+      internalID: 7840032887420397194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goToSiteText
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1586
+        width: 725
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fe928b06af3970ea4e7bd98a16bbde
+      internalID: -2914063396696707583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: leaveText
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1504
+        width: 336
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456e91a1d8f51c28fa94170a86ac1f69
+      internalID: -8637184524246021380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: singlePlayerText
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1377
+        width: 761
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5bf034f77babbc691aea1e1059419f
+      internalID: 7042847911465117151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: multiPlayerText
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1257
+        width: 716
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c994394224c25cbd587e875bdb4e33fa
+      internalID: 3447130555648517795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: helpText
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1159
+        width: 233
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6782511a3e1703e09f873197478111a
+      internalID: 7042847911465117151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: howToPlay
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1026
+        width: 727
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd0df4279130dff2b864b2dc16e2bff
+      internalID: 2357391784381616694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pauseButton
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1503
+        width: 306
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f6fd1e80c462f3f9c5be000fc08dc5
+      internalID: 1487049174405415783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: scorePanel
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 17
+        width: 1606
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582f2e1b88bb62d258258dbc92cf0977
+      internalID: 7042847911465117151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

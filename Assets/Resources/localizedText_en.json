@@ -1,0 +1,89 @@
+{
+    "items":
+    [
+        {
+            "key":"howToPlay",
+            "value":"How To Play"
+        },
+        {
+            "key":"multiPlayer",
+            "value":"Multi Player"
+        },
+        {
+            "key":"singlePlayer",
+            "value":"Single Player"
+        },
+        {
+            "key":"aboutUs",
+            "value":"About Us"
+        },
+        {
+            "key":"resume",
+            "value":"Resume"
+        },
+        {
+            "key":"reStart",
+            "value":"ReStart"
+        },
+        {
+            "key":"mainMenu",
+            "value":"Main Menu"
+        },
+        {
+            "key":"player1",
+            "value":"PLAYER 1"
+        },
+        {
+            "key":"player2",
+            "value":"PLAYER 2"
+        },
+        {
+            "key":"inputNameTitle",
+            "value":"ENTER YOUT NAME"
+        },
+        {
+            "key":"submit",
+            "value":"SUBMIT"
+        },
+        {
+            "key":"goToSite",
+            "value":"Go To Site"
+        },
+        {
+            "key":"setting",
+            "value":"Setting"
+        },
+        {
+            "key":"exit",
+            "value":"Exit"
+        },
+        {
+            "key":"start",
+            "value":"Start"
+        },
+        {
+            "key":"pause",
+            "value":"pause"
+        },
+        {
+            "key":"resetText",
+            "value":"touch to reset"
+        },
+        {
+            "key":"graphicall",
+            "value":"graphicall"
+        },
+        {
+            "key":"classic",
+            "value":"classic"
+        },
+        {
+            "key":"languageLabel",
+            "value":"language"
+        },
+        {
+            "key":"themeLabel",
+            "value":"theme"
+        }
+    ]
+}
